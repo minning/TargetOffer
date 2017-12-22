@@ -26,3 +26,6 @@ def lcsubstr(s1, s2):
 
 
 print lcsubstr('abcdfg', 'abdfg')
+
+
+
