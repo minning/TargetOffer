@@ -1,0 +1,28 @@
+**/.DS_Store
+bot_brain.brn
+.csv
+.tox
+.coverage
+*.pyc
+*.swp
+*.egg-info
+*.egg/*
+*.eggs/*
+
+# Database files
+*.sqlite3
+*.db
+db.sqlite3-shm
+db.sqlite3-wal
+
+# IntelliJ
+.idea
+*.iml
+
+examples/settings.py
+examples/ubuntu_dialogs*
+.env
+.out
+
+# ignore Ubuntu corpus files
+data
