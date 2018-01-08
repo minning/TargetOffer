@@ -17,7 +17,6 @@ class Solution:
         while matrix:
             ret += matrix.pop(0)
             matrix = map(list, zip(*matrix))[::-1]
-            print matrix
         return ret
 
 
