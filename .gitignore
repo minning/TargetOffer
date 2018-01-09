@@ -24,5 +24,5 @@ examples/ubuntu_dialogs*
 .env
 .out
 
-# ignore Ubuntu corpus files
+# ignore corpus files
 data
