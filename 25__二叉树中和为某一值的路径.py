@@ -24,3 +24,8 @@ class Solution:
         for i in left + right:
             ret.append([root.val] + i)
         return ret
+
+
+ss = 'ok'
+print ss
+print ss[1]+ss[0]
